@@ -1,2 +1,2 @@
-# platzi-poo-python
-Repositorio del Curso de POO y Algoritmos con Python
+# Curso de POO en Python
+Repositorio del Curso de POO y Algoritmos con Python de Platzi.
